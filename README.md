@@ -1,11 +1,16 @@
-**Technical Skills: ** Aviation
+# Joseph Moreland
+
+### US Army Aviation Officer
+
+**Interested In:** Applied Mathematics, Network Science, Secure Commmunications, Scientific Computation
+
 ## Contact Me
-- Phone Number: 660-563-1949
-- Email: joseph.moreland@nps.edu (Primary)
-- Email: huskergbp@outlook.com (Secondary)
+- **Phone:** 660-563-1949
+- **Email:** joseph.moreland@nps.edu (Primary)
+- **Email:** huskergbp@outlook.com (Secondary)
 
 ## Education
-- B.S., Mathematics | University of North Georgia (May 2016)
-- A.A., Wentworth Military Academy (May 2014)
+- MS, Applied Mathematics | Naval Postgraduate School (_Projected June 2026_)
+- BS, Mathematics | University of North Georgia (_May 2016_)
+- AA, Wentworth Military Academy (_May 2014_)
 
-## Work Experience
