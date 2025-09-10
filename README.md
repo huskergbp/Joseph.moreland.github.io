@@ -24,7 +24,16 @@ I am an Army Aviation Officer and graduate student in Applied Mathematics at the
 ## Education
 - **M.S., Applied Mathematics** — Naval Postgraduate School (_Projected June 2026_)  
 - **B.S., Mathematics** — University of North Georgia (_May 2016_)  
-- **A.A., General Studies** — Wentworth Military Academy (_May 2014_)  
+- **A.A., General Studies** — Wentworth Military Academy (_May 2014_)
+  
+## Projects
+
+### Streamlit App for Generating QR Codes
+[Git Repo](https://github.com/huskergbp/py_qrcode_gen)
+
+Designed and developed a dynamic streamlit dashboard to enable NPS community to build custom QR Codes.
+
+Here we show two common methods for inserting images.
 
 
 
